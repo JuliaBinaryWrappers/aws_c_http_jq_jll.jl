@@ -1,152 +1,152 @@
 [[aws_c_http_jq]]
 arch = "aarch64"
-git-tree-sha1 = "7462356ce6118e7f75f705b89b1ae23564fddadc"
+git-tree-sha1 = "afb144826ee1ad684362d54f57c13fbb9610a465"
 os = "macos"
 
     [[aws_c_http_jq.download]]
-    sha256 = "710d28073fca5c598ba1a9d5acd8e1a017fc874fd877bea6074dc3630f0f8fd6"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.6+0/aws_c_http_jq.v0.10.6.aarch64-apple-darwin.tar.gz"
+    sha256 = "f5bc8f5233fa9e874b9176edbd943b6cc880c15294aa863eaa884ec8b341eaa9"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.8+0/aws_c_http_jq.v0.10.8.aarch64-apple-darwin.tar.gz"
 [[aws_c_http_jq]]
 arch = "aarch64"
-git-tree-sha1 = "72321f4919c0bf1edfd7e8e62c651e45e8a1400a"
+git-tree-sha1 = "dbb6282d474b6dcd724b83cb19784a4d0847687b"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_http_jq.download]]
-    sha256 = "d0cc1a6aa758ebde93c8b72a358cb170f9cdc40e66b487155e14fab25e39d0e8"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.6+0/aws_c_http_jq.v0.10.6.aarch64-linux-gnu.tar.gz"
+    sha256 = "ad1b04f2a3fedbd6a0e9f380294e16bb90800d6a9a750559d349233d7f461b6d"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.8+0/aws_c_http_jq.v0.10.8.aarch64-linux-gnu.tar.gz"
 [[aws_c_http_jq]]
 arch = "aarch64"
-git-tree-sha1 = "8cbcd9fea1a17e8ea72a64a5faa3f9b0ecbe52e0"
+git-tree-sha1 = "f12ca9e01d698b4588a778b6f4e120fcdd8211a4"
 libc = "musl"
 os = "linux"
 
     [[aws_c_http_jq.download]]
-    sha256 = "1faa62414e556805532d00032a589507737f5a5033fa892e4d7d1afcdf7a9fff"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.6+0/aws_c_http_jq.v0.10.6.aarch64-linux-musl.tar.gz"
+    sha256 = "1fdf881ee0c42e9e996b63685d48d1b6099f1b834e1814f97c86291a9051c8eb"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.8+0/aws_c_http_jq.v0.10.8.aarch64-linux-musl.tar.gz"
 [[aws_c_http_jq]]
 arch = "aarch64"
-git-tree-sha1 = "bebf915ef60277a2bcfb8ea7614dad67ebd23b67"
+git-tree-sha1 = "32dc4f0f7d27ad21e274017c470f59425b8d8ab3"
 os = "freebsd"
 
     [[aws_c_http_jq.download]]
-    sha256 = "ad0c75e16155be2e5a7bc5b4a9e3c3a4376dac0d52d6f8c0282b3786d0aff549"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.6+0/aws_c_http_jq.v0.10.6.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "78362f2ef3000d21a2fe746475febc700f515c71f3eb52a653850288a5b157af"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.8+0/aws_c_http_jq.v0.10.8.aarch64-unknown-freebsd.tar.gz"
 [[aws_c_http_jq]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "5d235bd521a28879d78a7bec99037a3834d548f8"
+git-tree-sha1 = "b711f078169f8878a7a4a7186df4f648678ae6f9"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_http_jq.download]]
-    sha256 = "e458fe1d8aabf685f44d4e4e898c9198059a591a6246e23382ed4533b689ac25"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.6+0/aws_c_http_jq.v0.10.6.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "bec28e6687db25832dc97fd9a3b9b4dbdd27134449c51da14d0fe1b7a74a806b"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.8+0/aws_c_http_jq.v0.10.8.armv6l-linux-gnueabihf.tar.gz"
 [[aws_c_http_jq]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "ccda7b4d4e11c975a3edb0c4e45cf3ee63438a5d"
+git-tree-sha1 = "58f6b5822334d4b56b2708053067683e69c218fc"
 libc = "musl"
 os = "linux"
 
     [[aws_c_http_jq.download]]
-    sha256 = "196da439ae5e6b614cbf6f84daeb07cd980f03d7482bf63324eceec35d5ec0b5"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.6+0/aws_c_http_jq.v0.10.6.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "0729c1ed08937f5e9b9abb273c019cc7f3bd8d7c70f7f648947c2eb35543b83e"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.8+0/aws_c_http_jq.v0.10.8.armv6l-linux-musleabihf.tar.gz"
 [[aws_c_http_jq]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "a9848e880812b56aa3e4d8c66a728db0c3982faa"
+git-tree-sha1 = "d9d09ff0e57a77bc9636a800141182bd213ee6d9"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_http_jq.download]]
-    sha256 = "899952b920809cea48fa457ff966f243803df9cfc4852276499e3415766088cd"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.6+0/aws_c_http_jq.v0.10.6.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "73e078651f9bcdc1f755adcb99cf2d612ca4f5d04ff145f423d5ffaf0174d372"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.8+0/aws_c_http_jq.v0.10.8.armv7l-linux-gnueabihf.tar.gz"
 [[aws_c_http_jq]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "31839854613f4013fbc05c340b7ba53adf547133"
+git-tree-sha1 = "983cca0351b594cff4e5c8a4135576eb1974dc5a"
 libc = "musl"
 os = "linux"
 
     [[aws_c_http_jq.download]]
-    sha256 = "5959cf8d223faa0e064058064667fb7cc0ac5e3b22f8fdd014ec623b6296f26f"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.6+0/aws_c_http_jq.v0.10.6.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "cf597d643ac4918b6d15d15962e1cda2aa1526dfa85d7ea9a7d50b5d55733b38"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.8+0/aws_c_http_jq.v0.10.8.armv7l-linux-musleabihf.tar.gz"
 [[aws_c_http_jq]]
 arch = "i686"
-git-tree-sha1 = "bd2b9facd76374134196421e5b59cd9ea2a63411"
+git-tree-sha1 = "bfb9cae21a5d7ffcb9aa31289cde2fbaddd7a3a9"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_http_jq.download]]
-    sha256 = "5ed9c0b429111da166b85f0fc02501439bd8cfc2764450fa6482b333774b3f74"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.6+0/aws_c_http_jq.v0.10.6.i686-linux-gnu.tar.gz"
+    sha256 = "54fa35f64e1a21f39c396cc9b7fe401025c0ae151eb1ea09a06b4c42b1b953ea"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.8+0/aws_c_http_jq.v0.10.8.i686-linux-gnu.tar.gz"
 [[aws_c_http_jq]]
 arch = "i686"
-git-tree-sha1 = "1d5e3a62de4e41310f1f1d538492bda10b2a3035"
+git-tree-sha1 = "0d215bb76659ce7d1cb5eebbc59ad73076428113"
 libc = "musl"
 os = "linux"
 
     [[aws_c_http_jq.download]]
-    sha256 = "88603b564c304b8c99b06a79228681a58b1fe1c3e198e9b1e978d5a46dc004a3"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.6+0/aws_c_http_jq.v0.10.6.i686-linux-musl.tar.gz"
+    sha256 = "ddb7c99b4b717ffa170f161e11df7cae0abfc96905b9a9b8b99e431677e4d374"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.8+0/aws_c_http_jq.v0.10.8.i686-linux-musl.tar.gz"
 [[aws_c_http_jq]]
 arch = "powerpc64le"
-git-tree-sha1 = "c71abb465052c59db9db52b1af0e2cc235f6b274"
+git-tree-sha1 = "bd9a2474ad78014dd035e1ec5e07078a734a6e65"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_http_jq.download]]
-    sha256 = "2f7c49b8ca9e6ffc352c17b6ff8eca8ef8668dd44f081c45649ed3e99656fbf5"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.6+0/aws_c_http_jq.v0.10.6.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "377151ce2150afad534d9fe354852cb42655e1ec51d54e3691e40e1c8b81bccf"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.8+0/aws_c_http_jq.v0.10.8.powerpc64le-linux-gnu.tar.gz"
 [[aws_c_http_jq]]
 arch = "riscv64"
-git-tree-sha1 = "b902fd9d7bd5eb4f0470c55bad6c7e95dcfe7a38"
+git-tree-sha1 = "37a214344b533f7142b6ec76d0b21952b9ebd1c7"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_http_jq.download]]
-    sha256 = "572c6db26a596de5995b27afbc5365f3fb9397b1e5ca4a4b8fa498a3104b6b67"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.6+0/aws_c_http_jq.v0.10.6.riscv64-linux-gnu.tar.gz"
+    sha256 = "fea692e111fd7d5bd3aeecce0b2e5d2a1c6be9e48ade776cd7b662d93f018ab4"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.8+0/aws_c_http_jq.v0.10.8.riscv64-linux-gnu.tar.gz"
 [[aws_c_http_jq]]
 arch = "x86_64"
-git-tree-sha1 = "3d11ec9c8043d0ecb7448b222ece57fdcc531ed4"
+git-tree-sha1 = "82cecf06382d1fb3e060cdcfa5c8a253957751c1"
 os = "macos"
 
     [[aws_c_http_jq.download]]
-    sha256 = "a76a4ff73eefda5191caabccf1cdc5a62229aeda52bf34b14486f2e9da63c92a"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.6+0/aws_c_http_jq.v0.10.6.x86_64-apple-darwin.tar.gz"
+    sha256 = "05ddc3a8629cec79b13489f8baf4aa434908635cb3839b07ce9244511e61af7e"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.8+0/aws_c_http_jq.v0.10.8.x86_64-apple-darwin.tar.gz"
 [[aws_c_http_jq]]
 arch = "x86_64"
-git-tree-sha1 = "b31b227f1fc78622c2fc9a73430ce121c15043b6"
+git-tree-sha1 = "280344a115917aea98fde740436b1fe466328b02"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_http_jq.download]]
-    sha256 = "7555abb8e7132f4b05e13f8a7ac94a6f90c55ca354b87a4f91fc864bc5886c18"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.6+0/aws_c_http_jq.v0.10.6.x86_64-linux-gnu.tar.gz"
+    sha256 = "cd7912174df03faca2fbe983ee4c41c52190e8ac9b0c2943593a042e72584af9"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.8+0/aws_c_http_jq.v0.10.8.x86_64-linux-gnu.tar.gz"
 [[aws_c_http_jq]]
 arch = "x86_64"
-git-tree-sha1 = "a5883dfcc7d780ab48d734e9f43d548a4a937006"
+git-tree-sha1 = "0cf96354176a7e46502452ee032d7e012b984f90"
 libc = "musl"
 os = "linux"
 
     [[aws_c_http_jq.download]]
-    sha256 = "3fcec9b0b31bf20e746fd4f3805295a14765f7fd15b47559f51869891f257e6b"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.6+0/aws_c_http_jq.v0.10.6.x86_64-linux-musl.tar.gz"
+    sha256 = "a42ead1d7bd164807112f8d8caf07ce3d1bef018b1a260a691e85b2636cace83"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.8+0/aws_c_http_jq.v0.10.8.x86_64-linux-musl.tar.gz"
 [[aws_c_http_jq]]
 arch = "x86_64"
-git-tree-sha1 = "a8be25ce6e830ee34ddae452f606137d606305a9"
+git-tree-sha1 = "3905b91390b133387625c618ed92a7e435c9d43d"
 os = "freebsd"
 
     [[aws_c_http_jq.download]]
-    sha256 = "bd9c2eca69110cc7cb1d5e9fb14369d9dc7392336755466a68f051ac1f3bbacd"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.6+0/aws_c_http_jq.v0.10.6.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "e1bb981c2328367179807fb46179479cc5fd52923c9c391a088c191600c5d442"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.8+0/aws_c_http_jq.v0.10.8.x86_64-unknown-freebsd.tar.gz"
 [[aws_c_http_jq]]
 arch = "x86_64"
-git-tree-sha1 = "3b7300c7e9fe43ca5e48368e5a507dba1875d87a"
+git-tree-sha1 = "e15a99d9ad6f6c16cff7add1f06a6707826f170d"
 os = "windows"
 
     [[aws_c_http_jq.download]]
-    sha256 = "e2854f6401a1aff8e9f333631ea0c6b45cd8c9a13ca24c4465233af58a8352b6"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.6+0/aws_c_http_jq.v0.10.6.x86_64-w64-mingw32.tar.gz"
+    sha256 = "b1cb25973a78b119bb5e561d594085d3b66faa43885b83bc2a66bcda5293c770"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_http_jq_jll.jl/releases/download/aws_c_http_jq-v0.10.8+0/aws_c_http_jq.v0.10.8.x86_64-w64-mingw32.tar.gz"
